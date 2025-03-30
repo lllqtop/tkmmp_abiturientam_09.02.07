@@ -270,8 +270,9 @@ menu, ol, ul {
   width: 42.03rem;
   height: 19.5625rem;
   position: absolute;
-  left: 43.5rem;
+  left: 13.5rem;
   top: 8.9375rem;
+  right: 40rem;
   object-fit: cover;
 }
 
